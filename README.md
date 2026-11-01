@@ -11,7 +11,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/stats-light.svg">
-  <img src="assets/stats-dark.svg" width="900" alt="Public GitHub snapshot: 2 repositories, 0 stars including forks, 1 followers. Languages by code bytes, excluding forks: Rust 80.0%, PowerShell 20.0%, Batchfile 0.0%. Updated 2026-11-01 20:48 UTC.">
+  <img src="assets/stats-dark.svg" width="900" alt="Public GitHub snapshot: 3 repositories, 0 stars including forks, 1 followers. Languages by code bytes, excluding forks: Rust 80.0%, PowerShell 20.0%, Batchfile 0.0%. Updated 2026-11-01 20:48 UTC.">
 </picture>
 <!-- stats:end -->
 
