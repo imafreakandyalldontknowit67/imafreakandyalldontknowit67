@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="194" viewBox="0 0 900 194">
+<defs><linearGradient id="glass"><stop stop-color="#19130f"/><stop offset="1" stop-color="#533b27"/></linearGradient></defs>
+<rect width="900" height="194" rx="5" fill="#19130f"/>
+<rect x="12" y="12" width="876" height="170" rx="5" fill="url(#glass)"/>
+<rect x="12" y="12" width="876" height="170" rx="5" fill="#19130f" fill-opacity=".58" stroke="#533b27"/>
+<path d="M450 38V140" stroke="#533b27"/>
+<g font-family="Consolas,monospace">
+<text x="40" y="46" font-size="12" letter-spacing="2" fill="#efb85f">PROFILE</text>
+<text x="488" y="46" font-size="12" letter-spacing="2" fill="#efb85f">TOP LANGUAGES</text>
+<text x="40" y="96" fill="#f6e6c8" font-size="32">2</text><text x="40" y="124" fill="#c3a580" font-size="12">public repos</text><text x="177" y="96" fill="#f6e6c8" font-size="32">0</text><text x="177" y="124" fill="#c3a580" font-size="12">stars</text><text x="310" y="96" fill="#f6e6c8" font-size="32">1</text><text x="310" y="124" fill="#c3a580" font-size="12">followers</text><text x="488" y="77" fill="#f6e6c8" font-size="14">Rust</text><rect x="628" y="67" width="150" height="6" rx="3" fill="#533b27"/><rect x="628" y="67" width="119.98" height="6" rx="3" fill="#efb85f"/><text x="850" y="77" text-anchor="end" fill="#c3a580" font-size="13">80.0%</text><text x="488" y="107" fill="#f6e6c8" font-size="14">PowerShell</text><rect x="628" y="97" width="150" height="6" rx="3" fill="#533b27"/><rect x="628" y="97" width="30.00" height="6" rx="3" fill="#efb85f"/><text x="850" y="107" text-anchor="end" fill="#c3a580" font-size="13">20.0%</text><text x="488" y="137" fill="#f6e6c8" font-size="14">Batchfile</text><rect x="628" y="127" width="150" height="6" rx="3" fill="#533b27"/><rect x="628" y="127" width="0.01" height="6" rx="3" fill="#efb85f"/><text x="850" y="137" text-anchor="end" fill="#c3a580" font-size="13">0.0%</text>
+<text x="40" y="164" font-size="11" fill="#c3a580">Updated 2026-11-01 20:48 UTC</text>
+</g></svg>

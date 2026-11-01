@@ -1,0 +1,5 @@
+{
+  "name": "Honey Glaze",
+  "dark": {"background":"#19130f","border":"#533b27","accent":"#efb85f","text":"#f6e6c8","muted":"#c3a580","fur":"#dfa052","ear":"#f6d8a4","face":"#291b11"},
+  "light": {"background":"#fff8ed","border":"#dbc4a1","accent":"#975018","text":"#39271b","muted":"#785b3d","fur":"#b96b2b","ear":"#f2c68a","face":"#fff0d5"}
+}
