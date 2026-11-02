@@ -11,7 +11,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/stats-light.svg">
-  <img src="assets/stats-dark.svg" width="900" alt="Public GitHub snapshot: 3 repositories, 0 stars including forks, 1 followers. Languages by code bytes, excluding forks: Rust 80.0%, PowerShell 20.0%, Batchfile 0.0%. Updated 2026-11-01 20:48 UTC.">
+  <img src="assets/stats-dark.svg" width="900" alt="Public GitHub snapshot: 4 repositories, 1 stars including forks, 1 followers. Languages by code bytes, excluding forks: Rust 81.7%, PowerShell 18.3%, Batchfile 0.0%. Updated 2026-11-02 04:28 UTC.">
 </picture>
 <!-- stats:end -->
 
@@ -29,27 +29,27 @@
 
 ### recent activity
 
-<a href="https://github.com/imafreakandyalldontknowit67/TaskbarX-Rust/releases/tag/v0.1.3">
+<a href="https://github.com/imafreakandyalldontknowit67/local-shazam/releases/tag/v0.2.2">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/activity-0-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/activity-0-light.svg">
-  <img src="assets/activity-0-dark.svg" width="900" alt="2026-10-29: TaskbarX-Rust — Released v0.1.3">
+  <img src="assets/activity-0-dark.svg" width="900" alt="2026-11-02: local-shazam — Released v0.2.2">
 </picture>
 </a>
 
-<a href="https://github.com/imafreakandyalldontknowit67/TaskbarX-Rust/releases/tag/v0.1.2">
+<a href="https://github.com/imafreakandyalldontknowit67/local-shazam/releases/tag/v0.2.2-beta.1">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/activity-1-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/activity-1-light.svg">
-  <img src="assets/activity-1-dark.svg" width="900" alt="2026-10-29: TaskbarX-Rust — Released v0.1.2">
+  <img src="assets/activity-1-dark.svg" width="900" alt="2026-11-01: local-shazam — Released v0.2.2-beta.1">
 </picture>
 </a>
 
-<a href="https://github.com/imafreakandyalldontknowit67/TaskbarX-Rust">
+<a href="https://github.com/imafreakandyalldontknowit67/local-shazam/releases/tag/v0.2.1">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/activity-2-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/activity-2-light.svg">
-  <img src="assets/activity-2-dark.svg" width="900" alt="2026-10-29: TaskbarX-Rust — Made repository public">
+  <img src="assets/activity-2-dark.svg" width="900" alt="2026-11-01: local-shazam — Released v0.2.1">
 </picture>
 </a>
 
