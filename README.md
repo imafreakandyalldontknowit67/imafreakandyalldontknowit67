@@ -11,7 +11,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/stats-light.svg">
-  <img src="assets/stats-dark.svg" width="900" alt="Public GitHub snapshot: 5 repositories, 1 stars including forks, 1 followers. Languages by code bytes, excluding forks: Rust 81.7%, PowerShell 18.3%, Batchfile 0.0%. Updated 2026-11-03 04:27 UTC.">
+  <img src="assets/stats-dark.svg" width="900" alt="Public GitHub snapshot: 6 repositories, 2 stars including forks, 1 followers. Languages by code bytes, excluding forks: Luau 45.2%, Rust 40.9%, PowerShell 9.1%, Python 3.9%. Updated 2026-11-04 04:27 UTC.">
 </picture>
 <!-- stats:end -->
 
@@ -29,27 +29,27 @@
 
 ### recent activity
 
-<a href="https://github.com/imafreakandyalldontknowit67/local-shazam/releases/tag/v0.2.2">
+<a href="https://github.com/imafreakandyalldontknowit67/steal-a-template">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/activity-0-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/activity-0-light.svg">
-  <img src="assets/activity-0-dark.svg" width="900" alt="2026-11-02: local-shazam — Released v0.2.2">
+  <img src="assets/activity-0-dark.svg" width="900" alt="2026-11-04: steal-a-template — Updated pull request">
 </picture>
 </a>
 
-<a href="https://github.com/imafreakandyalldontknowit67/local-shazam/releases/tag/v0.2.2-beta.1">
+<a href="https://github.com/imafreakandyalldontknowit67/steal-a-template">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/activity-1-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/activity-1-light.svg">
-  <img src="assets/activity-1-dark.svg" width="900" alt="2026-11-01: local-shazam — Released v0.2.2-beta.1">
+  <img src="assets/activity-1-dark.svg" width="900" alt="2026-11-04: steal-a-template — Updated pull request">
 </picture>
 </a>
 
-<a href="https://github.com/imafreakandyalldontknowit67/local-shazam/releases/tag/v0.2.1">
+<a href="https://github.com/imafreakandyalldontknowit67/steal-a-template">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/activity-2-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/activity-2-light.svg">
-  <img src="assets/activity-2-dark.svg" width="900" alt="2026-11-01: local-shazam — Released v0.2.1">
+  <img src="assets/activity-2-dark.svg" width="900" alt="2026-11-02: steal-a-template — Made repository public">
 </picture>
 </a>
 
