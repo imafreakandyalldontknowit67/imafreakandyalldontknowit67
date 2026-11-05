@@ -11,7 +11,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/stats-light.svg">
-  <img src="assets/stats-dark.svg" width="900" alt="Public GitHub snapshot: 6 repositories, 2 stars including forks, 1 followers. Languages by code bytes, excluding forks: Luau 45.2%, Rust 40.9%, PowerShell 9.1%, Python 3.9%. Updated 2026-11-04 04:27 UTC.">
+  <img src="assets/stats-dark.svg" width="900" alt="Public GitHub snapshot: 6 repositories, 2 stars including forks, 1 followers. Languages by code bytes, excluding forks: Luau 48.4%, Rust 38.5%, PowerShell 8.6%, Python 3.7%. Updated 2026-11-05 04:27 UTC.">
 </picture>
 <!-- stats:end -->
 
@@ -33,7 +33,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/activity-0-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/activity-0-light.svg">
-  <img src="assets/activity-0-dark.svg" width="900" alt="2026-11-04: steal-a-template — Updated pull request">
+  <img src="assets/activity-0-dark.svg" width="900" alt="2026-11-04: steal-a-template — Pushed updates">
 </picture>
 </a>
 
@@ -49,7 +49,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/activity-2-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/activity-2-light.svg">
-  <img src="assets/activity-2-dark.svg" width="900" alt="2026-11-02: steal-a-template — Made repository public">
+  <img src="assets/activity-2-dark.svg" width="900" alt="2026-11-04: steal-a-template — Updated pull request">
 </picture>
 </a>
 
