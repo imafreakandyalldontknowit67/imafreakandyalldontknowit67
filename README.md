@@ -11,7 +11,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/stats-light.svg">
-  <img src="assets/stats-dark.svg" width="900" alt="Public GitHub snapshot: 6 repositories, 5 stars including forks, 1 followers. Languages by code bytes, excluding forks: Luau 48.8%, Rust 37.8%, PowerShell 8.5%, Python 4.2%. Updated 2026-11-06 04:27 UTC.">
+  <img src="assets/stats-dark.svg" width="900" alt="Public GitHub snapshot: 6 repositories, 5 stars including forks, 1 followers. Languages by code bytes, excluding forks: Luau 48.7%, Rust 37.9%, PowerShell 8.4%, Python 4.2%. Updated 2026-11-07 04:26 UTC.">
 </picture>
 <!-- stats:end -->
 
@@ -29,11 +29,11 @@
 
 ### recent activity
 
-<a href="https://github.com/imafreakandyalldontknowit67/steal-a-template">
+<a href="https://github.com/imafreakandyalldontknowit67/TaskbarX-Rust/releases/tag/v0.1.4">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/activity-0-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/activity-0-light.svg">
-  <img src="assets/activity-0-dark.svg" width="900" alt="2026-11-04: steal-a-template — Pushed updates">
+  <img src="assets/activity-0-dark.svg" width="900" alt="2026-11-06: TaskbarX-Rust — Released v0.1.4">
 </picture>
 </a>
 
@@ -41,7 +41,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/activity-1-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/activity-1-light.svg">
-  <img src="assets/activity-1-dark.svg" width="900" alt="2026-11-04: steal-a-template — Pushed updates">
+  <img src="assets/activity-1-dark.svg" width="900" alt="2026-11-06: steal-a-template — Pushed updates">
 </picture>
 </a>
 
@@ -49,7 +49,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/activity-2-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/activity-2-light.svg">
-  <img src="assets/activity-2-dark.svg" width="900" alt="2026-11-04: steal-a-template — Pushed updates">
+  <img src="assets/activity-2-dark.svg" width="900" alt="2026-11-06: steal-a-template — Pushed updates">
 </picture>
 </a>
 
