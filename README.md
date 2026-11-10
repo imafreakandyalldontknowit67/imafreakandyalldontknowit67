@@ -11,7 +11,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/stats-light.svg">
-  <img src="assets/stats-dark.svg" width="900" alt="Public GitHub snapshot: 6 repositories, 7 stars including forks, 1 followers. Languages by code bytes, excluding forks: Luau 50.3%, Rust 36.7%, PowerShell 8.2%, Python 4.0%. Updated 2026-11-09 04:30 UTC.">
+  <img src="assets/stats-dark.svg" width="900" alt="Public GitHub snapshot: 6 repositories, 8 stars including forks, 1 followers. Languages by code bytes, excluding forks: Luau 58.3%, Rust 30.8%, PowerShell 6.9%, Python 3.4%. Updated 2026-11-10 04:27 UTC.">
 </picture>
 <!-- stats:end -->
 
