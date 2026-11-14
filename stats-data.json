@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-13 04:28 UTC",
+  "updated": "2026-11-14 04:27 UTC",
   "public_repos": 6,
   "non_fork_repos": 3,
-  "stars": 12,
+  "stars": 11,
   "followers": 1,
   "language_bytes_non_fork": {
     "Rust": 861461,
     "PowerShell": 191817,
-    "Luau": 1632842,
+    "Luau": 2082572,
     "Python": 94503,
     "JavaScript": 18492,
     "Batchfile": 78

@@ -2,6 +2,6 @@
 <defs><linearGradient id="glass"><stop stop-color="#19130f"/><stop offset="1" stop-color="#533b27"/></linearGradient></defs>
 <rect x="12" y="4" width="876" height="68" rx="4" fill="url(#glass)"/>
 <rect x="12" y="4" width="876" height="68" rx="4" fill="#19130f" fill-opacity=".58" stroke="#533b27"/>
-<g font-family="Consolas,monospace"><text x="36" y="43" font-size="13" fill="#c3a580">2026-11-08</text>
+<g font-family="Consolas,monospace"><text x="36" y="43" font-size="13" fill="#c3a580">2026-11-09</text>
 <text x="174" y="31" font-size="14" fill="#efb85f">steal-a-template</text>
 <text x="174" y="53" font-size="13" fill="#f6e6c8">Pushed updates</text></g></svg>
